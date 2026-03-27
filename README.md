@@ -14,7 +14,7 @@
 
 ---
 
-![App Screenshot](./assets/dashboard_preview.png)
+
 
 > A clinical decision-support system that predicts patient readmission risk and explains **why** — built for transparency, trust, and actionable insight.
 
