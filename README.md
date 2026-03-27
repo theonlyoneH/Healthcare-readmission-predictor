@@ -290,7 +290,7 @@ seaborn==0.12.2
 
 ## 📄 License
 
-MIT License — see [LICENSE](./LICENSE) for details.
+MIT License
 
 ---
 
