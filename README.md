@@ -294,4 +294,4 @@ MIT License — see [LICENSE](./LICENSE) for details.
 
 ---
 
-<p align="center">Built for the Abbott GDSA Internship | Mumbai · 2025</p>
+
